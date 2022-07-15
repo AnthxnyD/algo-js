@@ -1,4 +1,4 @@
-let n = Number(prompt('Entrer un nbr'));
+let n = Number(prompt('Nombre de nombres à entrer'));
 let r = 0, i = 0;
 while(i < n)
 {
