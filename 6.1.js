@@ -17,3 +17,4 @@ class Circle {
 let c = new Circle(5, 7, 2);
 c.move(1, 0);
 console.log(`x: ${c.xPos}\ny: ${c.yPos}\nSurface: ${c.surface}`);
+
